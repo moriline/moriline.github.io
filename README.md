@@ -1,2 +1,2 @@
 # moriline.github.io
-Java Development Site of Moriline
+Java development site of Moriline
